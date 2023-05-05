@@ -1,0 +1,9 @@
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.column_content_copyright {
+  flex-basis: 711px;
+  justify-content: space-between;
+}
